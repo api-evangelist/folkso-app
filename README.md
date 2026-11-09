@@ -1,4 +1,4 @@
-# folkso-app
+# Folkso
 
 <!-- API-EVANGELIST-PROVENANCE:BEGIN -->
 > ### About this repository
@@ -64,5 +64,91 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-folkso-app is a company surfaced via the API Evangelist harvest backlog (source: mcp-registry) and added to the network as a stub for full-pipeline profiling.
-- https://folkso.app/
+Folkso is a platform that leverages large language models like ChatGPT, Claude, and Grok to help users discover people open to offers. By entering a brief request, the service returns AI‑curated profiles of individuals who might be interested, enabling businesses and recruiters to reach out efficiently. The service is free, web‑based, and emphasizes privacy with optional contact details. It aims to streamline networking and talent acquisition through AI recommendations.
+
+**Areas:** Company · AI · Networking · Recruitment · Free
+
+## Folkso on APIs.io
+
+Everything profiled for Folkso is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/folkso-app/](https://apis.io/providers/folkso-app/)** — or go straight to one of the APIs or properties below.
+
+### APIs (1)
+
+- [Folkso API](https://apis.io/apis/folkso-app/folkso-api/) — API documented at Folkso guides page
+
+### Published properties
+
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
+
+#### Security (1)
+
+Authentication, trust centre, and vulnerability disclosure.
+
+- [Folkso App Domain Security](https://apis.io/security/folkso-app/folkso-app-domain-security/)
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://folkso.app/)
+- [Documentation](https://folkso.app/guides)
+- [Support](https://folkso.app/help)
+- [Changelog](https://folkso.app/changelog)
+- [Terms of service](https://folkso.app/terms)
+- [Privacy policy](https://folkso.app/privacy)
+
+## API Evangelist rating
+
+**Kin Score 19.8** — emerging · rubric 0.27.0 · scored 2026-11-08
+
+| Facet | Score |
+|---|---|
+| Discoverability | 57.1 |
+| Contract quality | 0.0 |
+| Contract governance | 16.4 |
+| Operational transparency | 15.8 |
+| Developer ergonomics | 14.3 |
+| Access clarity | 34.2 |
+
+**Agent readiness 6.7** — agent-aware
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | — |
+| Agentic Access | — |
+| Reversibility Documented | — |
+| MCP Server | documented (partial credit) |
+| Auth Clarity | — |
+| Idempotency | — |
+| Error Semantics | — |
+| OpenAPI Examples | — |
+| Rate Limit Signal | — |
+| Event Surface Described | — |
+| Agent Skills | — |
+| Well Known Catalog | — |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | — |
+| Protected Resource Metadata | verified |
+| Dynamic Client Registration | — |
+| Agentic Commerce | — |
+| Pagination Ratio | na |
+| Operation Distinctiveness | na |
+| MCP Tool Quality | na |
+
+**Regulatory alignment 17.3** — Horizontal (data, software, accessibility, platform)
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/folkso-app/](https://apis.io/providers/folkso-app/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for Folkso: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/folkso-app/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
